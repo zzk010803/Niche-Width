@@ -1,4 +1,3 @@
-````markdown
 # OTU Niche Breadth vs. Relative Abundance Analysis
 
 This repository contains a Python script for the quantitative analysis and visualization of microbial ecological patterns, focusing on the relationship between **OTU niche breadth** (Levins' Bi) and **mean relative abundance**. This type of analysis is frequently used in microbial ecology, environmental microbiome studies, and functional diversity assessments.
